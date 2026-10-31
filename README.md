@@ -2,7 +2,7 @@
 
 A fast, parallel reroller for [RNGdle](https://www.rngdle.com), the one-roll-a-day number game, plus a statistical look at what the rolls are worth.
 
-Built for a friendly "who can write the fastest and best code" competition.
+
 
 | Best roll: **58008**, 50,012,528 XP | Runner-up: **662831**, 5,002,060 XP |
 |---|---|
